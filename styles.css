@@ -1,0 +1,14 @@
+h1 {
+  font-weight: 800;
+  text-decoration: underline blue wavy;
+  font-style: oblique;
+  text-transform: uppercase;
+}
+h4 {
+  text-decoration: line-through red;
+}
+p {
+  text-decoration: overline green dotted;
+  font-style: oblique;
+  text-transform: capitalize;
+}
